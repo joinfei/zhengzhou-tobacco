@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/joinfei/zhengzhou-tobacco/blob/master/20.png</string>
+					<string>https://raw.githubusercontent.com/joinfei/zhengzhou-tobacco/master/20.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/joinfei/zhengzhou-tobacco/blob/master/20.png</string>
+					<string>https://raw.githubusercontent.com/joinfei/zhengzhou-tobacco/master/20.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
